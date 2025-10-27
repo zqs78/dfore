@@ -2,7 +2,7 @@ name: web-service
 services:
 - name: web
   ports:
-  - port: 20118
+  - port: 20110
     protocol: TCP
     tcp:
       proxy:
